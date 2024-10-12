@@ -1,0 +1,10 @@
+npm init -y
+npm i express
+mkdir scr 
+mkdir scr/app.js
+mkdir scr/appjs defino odas las rutas o end point 
+mkdir scr/controllers  define funciones 
+
+npm i nodemon -D
+npm run dev 
+npm i bcryptjs
